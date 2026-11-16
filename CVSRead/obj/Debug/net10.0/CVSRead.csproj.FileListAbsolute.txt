@@ -1,0 +1,15 @@
+/Users/masonwillis/Documents/CVSRead/CVSRead/bin/Debug/net10.0/small_csv.csv
+/Users/masonwillis/Documents/CVSRead/CVSRead/bin/Debug/net10.0/CVSRead
+/Users/masonwillis/Documents/CVSRead/CVSRead/bin/Debug/net10.0/CVSRead.deps.json
+/Users/masonwillis/Documents/CVSRead/CVSRead/bin/Debug/net10.0/CVSRead.runtimeconfig.json
+/Users/masonwillis/Documents/CVSRead/CVSRead/bin/Debug/net10.0/CVSRead.dll
+/Users/masonwillis/Documents/CVSRead/CVSRead/bin/Debug/net10.0/CVSRead.pdb
+/Users/masonwillis/Documents/CVSRead/CVSRead/obj/Debug/net10.0/CVSRead.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masonwillis/Documents/CVSRead/CVSRead/obj/Debug/net10.0/CVSRead.AssemblyInfoInputs.cache
+/Users/masonwillis/Documents/CVSRead/CVSRead/obj/Debug/net10.0/CVSRead.AssemblyInfo.cs
+/Users/masonwillis/Documents/CVSRead/CVSRead/obj/Debug/net10.0/CVSRead.csproj.CoreCompileInputs.cache
+/Users/masonwillis/Documents/CVSRead/CVSRead/obj/Debug/net10.0/CVSRead.dll
+/Users/masonwillis/Documents/CVSRead/CVSRead/obj/Debug/net10.0/refint/CVSRead.dll
+/Users/masonwillis/Documents/CVSRead/CVSRead/obj/Debug/net10.0/CVSRead.pdb
+/Users/masonwillis/Documents/CVSRead/CVSRead/obj/Debug/net10.0/CVSRead.genruntimeconfig.cache
+/Users/masonwillis/Documents/CVSRead/CVSRead/obj/Debug/net10.0/ref/CVSRead.dll
